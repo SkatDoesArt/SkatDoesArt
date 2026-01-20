@@ -6,8 +6,12 @@ I’m Zahra Salou, a computer science student in Nantes, France.
 
 I design and build digital experiences, mixing creativity with code.
 
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
-
+<p align="center">
+  <img 
+    src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" 
+    width="400"
+  />
+</p>
 If an idea sparks, I sketch it, code it, and bring it to life—whether it’s a web project, a UML diagram, or even a webtoon!
 
 My current stack: HTML, CSS, JavaScript, SQL, Python, Kotlin, GoLang (and always learning more).
