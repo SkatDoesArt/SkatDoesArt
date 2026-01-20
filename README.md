@@ -1,18 +1,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1C2D,100:5A1A2E&height=150&text=SkatDoesCode&fontSize=50&fontColor=F2ECE6&fontAlignY=45&animation=twinkling&section=header" />
 
-## Hi there 🎀
-
-I’m Zahra Salou, a computer science student in Nantes, France.
-
-I design and build digital experiences, mixing creativity with code.
+## Hi there, I'm Zahra ! 🎀
 
 <p align="center">
   <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
 </p>
 
-If an idea sparks, I sketch it, code it, and bring it to life—whether it’s a web project, a UML diagram, or even a webtoon!
+I’m a Computer Science student in France, with a strong interest in building thoughtful and aesthetic digital experiences.
 
-My current stack: HTML, CSS, JavaScript, SQL, Python, Kotlin, GoLang (and always learning more).
+I enjoy working across web development, software engineering, game development and art, where logic meets creativity. I’m comfortable turning ideas into concrete projects from web applications and UML modeling to interactive systems.
+
+Beyond code, I care deeply about design, structure, and clarity, and I often use tools like Figma and sketching to shape ideas before bringing them to life.
+
+✨ Always curious, always learning, and always excited to create meaningful projects that blend creativity and technology. ✨
+
+My current stack: 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,golang,kotlin,php,sql,js,html,css&theme=light" />
+  </a>
+</p>
+
+(and always learning more).
 
 Favorite tools: Figma, IbisPaint, and my trusty IPad for brainstorming.
 
