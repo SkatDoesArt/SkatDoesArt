@@ -14,7 +14,9 @@ Beyond code, I care deeply about design, structure, and clarity, and I often use
 
 ✨ Always curious, always learning, and always excited to create meaningful projects that blend creativity and technology. ✨
 
-My current stack: 
+---
+
+### My current stack: 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,8 +24,9 @@ My current stack:
   </a>
 </p>
 
+---
 
-Languages currently learning:
+### Languages currently learning:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,17 +36,32 @@ Languages currently learning:
 
 (and always learning more).
 
-Favorite tools: 
+---
+
+### Dev Tools: 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,docker,git,github,gitlab,figma,sketchup&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,sublime,docker,git,github,gitlab,figma,sketchup&theme=dark" />
   </a>
 </p>
 
 and my trusty IPad for brainstorming.
 
-I’ve worked on projects during my BecomTech training and my BUT studies, but my favorite so far is the GoLang Game.
+--- 
+
+### Can work on  : 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash&theme=dark" />
+  </a>
+</p>
+
+---
+
+
+I’ve worked on projects during my BecomTech training and my BUT studies, but my favorite so far is e-commerce website.
 
 Fun Facts:
 
