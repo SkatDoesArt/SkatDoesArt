@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1C2D,100:5A1A2E&height=150&text=SkatDoesCode&fontSize=50&fontColor=F2ECE6&fontAlignY=45&animation=twinkling&section=header&fontFamily=PlayFair-Display" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1C2D,100:5A1A2E&height=150&text=SkatDoesCode&fontSize=50&fontColor=F2ECE6&fontAlignY=45&animation=twinkling&section=header" />
 
 ## Hi there 🎀
 
