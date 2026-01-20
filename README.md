@@ -18,13 +18,30 @@ My current stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,golang,kotlin,php,sql,js,html,css&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,golang,kotlin,php,html,css&theme=dark" />
+  </a>
+</p>
+
+
+Languages currently learning:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,swift,flutter&theme=dark" />
   </a>
 </p>
 
 (and always learning more).
 
-Favorite tools: Figma, IbisPaint, and my trusty IPad for brainstorming.
+Favorite tools: 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,docker,git,github,gitlab,figma,sketchup&theme=dark" />
+  </a>
+</p>
+
+and my trusty IPad for brainstorming.
 
 I’ve worked on projects during my BecomTech training and my BUT studies, but my favorite so far is the GoLang Game.
 
