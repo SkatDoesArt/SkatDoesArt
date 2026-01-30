@@ -74,6 +74,6 @@ Fun Facts:
 
 ### Some random dev stats : 
 
-![SkatDoesCode GitHub stats](https://github-readme-stats.vercel.app/api?username=SkatDoesArt&show_icons=true&theme=tokyonight)
+![SkatDoesArt's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkatDoesArt&show_icons=true&theme=radical)
 
 Want to collaborate or chat about tech, design, or Valorant? Let’s connect!
