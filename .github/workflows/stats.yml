@@ -1,4 +1,4 @@
-name: Update GitHub Stats
+ename: Update GitHub Stats
 on:
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight
@@ -16,7 +16,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight'
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=rose_pine'
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -24,7 +24,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: 'username=${{ github.repository_owner }}&layout=compact&theme=tokyonight'
+          options: 'username=${{ github.repository_owner }}&layout=compact&theme=rose_pine'
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
