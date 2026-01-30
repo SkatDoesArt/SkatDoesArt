@@ -61,7 +61,7 @@ and my trusty IPad for brainstorming.
 ---
 
 
-I’ve worked on projects during my BecomTech training and my BUT studies, but my favorite so far is e-commerce website.
+I’ve worked on projects during my BecomTech training and my BUT studies, but my favorite so far is the e-commerce website named as ScentMeIfYouCan.
 
 Fun Facts:
 
@@ -69,5 +69,11 @@ Fun Facts:
 - I hate fizzy drinks (water or fresh juice, please!)
 - I’m writing a webtoon in my free time
 - Hobbies: drawing, gaming, gym, and Formula 1
+
+---
+
+### Some random dev stats : 
+
+![SkatDoesCode GitHub stats](https://github-readme-stats.vercel.app/api?username=SkatDoesArt&show_icons=true&theme=tokyonight)
 
 Want to collaborate or chat about tech, design, or Valorant? Let’s connect!
