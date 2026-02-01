@@ -86,16 +86,16 @@ Want to collaborate or chat about tech, design, or Valorant?
 
 <p align="center">
   <a href="mailto:zahrasalou28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=5A1A2E" />
   </a>
   <a href="https://www.linkedin.com/in/zahra-salou-8808b538b">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=5A1A2E" />
   </a>
   <a href="https://www.instagram.com/_zxrx.prv_">
-    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=5A1A2E" />
   </a>
   <a href="https://discord.com/users/764795735694508074">
-    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=5A1A2E" />
   </a>
 </p>
 
