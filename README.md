@@ -31,7 +31,7 @@
 
 > **Languages currently learning** :
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,js,swift,flutter&theme=dark" />
   </a>
