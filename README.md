@@ -108,4 +108,4 @@ Want to collaborate or chat about tech, design, or Valorant?
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1C2D,100:5A1A2E&height=150&text=See you Soon &fontSize=50&fontColor=F2ECE6&fontAlignY=45&animation=twinkling&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1C2D,100:5A1A2E&height=150&text=See%20you%20Soon &fontSize=50&fontColor=F2ECE6&fontAlignY=45&animation=twinkling&section=footer" />
